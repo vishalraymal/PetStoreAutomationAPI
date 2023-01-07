@@ -23,7 +23,7 @@ public class EndPointsOperations {
 
 	}
 	
-	public static Response getUser(String username) {
+	public static Response readUser(String username) {
 		Response res = given()
 				        .pathParam("username", username)
 				       
