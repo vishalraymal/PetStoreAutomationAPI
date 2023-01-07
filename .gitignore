@@ -3,5 +3,6 @@
 /target
 /reports
 /logs
-.settings
-.project
+/.settings
+/.project
+/.classpath
