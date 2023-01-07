@@ -3,3 +3,5 @@
 /target
 /reports
 /logs
+.settings
+.project
